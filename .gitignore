@@ -1,0 +1,7 @@
+.DS_stoare
+.idea
+__pycache__/
+stack_venv/
+zoo/
+project1/
+
